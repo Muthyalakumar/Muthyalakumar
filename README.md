@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muthyalakumar
+- 👋 Hi, I’m @Muthyalakumar Gara
 - 👀 I’m interested in Fullstack web development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
